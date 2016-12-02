@@ -1,0 +1,5 @@
+c:\users\mb\documents\visual studio 2012\Projects\SolutionForRestaurantReservation\Restaurant.DTO\bin\Debug\Restaurant.DTO.dll
+c:\users\mb\documents\visual studio 2012\Projects\SolutionForRestaurantReservation\Restaurant.DTO\bin\Debug\Restaurant.DTO.pdb
+c:\users\mb\documents\visual studio 2012\Projects\SolutionForRestaurantReservation\Restaurant.DTO\obj\Debug\Restaurant.DTO.csprojResolveAssemblyReference.cache
+c:\users\mb\documents\visual studio 2012\Projects\SolutionForRestaurantReservation\Restaurant.DTO\obj\Debug\Restaurant.DTO.dll
+c:\users\mb\documents\visual studio 2012\Projects\SolutionForRestaurantReservation\Restaurant.DTO\obj\Debug\Restaurant.DTO.pdb

@@ -1,0 +1,10 @@
+c:\users\mb\documents\visual studio 2012\Projects\SolutionForRestaurantReservation\TestApp\bin\Debug\TestApp.exe.config
+c:\users\mb\documents\visual studio 2012\Projects\SolutionForRestaurantReservation\TestApp\bin\Debug\TestApp.exe
+c:\users\mb\documents\visual studio 2012\Projects\SolutionForRestaurantReservation\TestApp\bin\Debug\TestApp.pdb
+c:\users\mb\documents\visual studio 2012\Projects\SolutionForRestaurantReservation\TestApp\bin\Debug\Restaurant.DAL.dll
+c:\users\mb\documents\visual studio 2012\Projects\SolutionForRestaurantReservation\TestApp\bin\Debug\Restaurant.DTO.dll
+c:\users\mb\documents\visual studio 2012\Projects\SolutionForRestaurantReservation\TestApp\bin\Debug\Restaurant.DAL.pdb
+c:\users\mb\documents\visual studio 2012\Projects\SolutionForRestaurantReservation\TestApp\bin\Debug\Restaurant.DTO.pdb
+c:\users\mb\documents\visual studio 2012\Projects\SolutionForRestaurantReservation\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+c:\users\mb\documents\visual studio 2012\Projects\SolutionForRestaurantReservation\TestApp\obj\Debug\TestApp.exe
+c:\users\mb\documents\visual studio 2012\Projects\SolutionForRestaurantReservation\TestApp\obj\Debug\TestApp.pdb
